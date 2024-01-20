@@ -2,4 +2,4 @@
 <h3 align="center">Just a guy that likes to code.</h3>
 
 - 🌱 I’m currently learning **Django**.
-- 🌱 **FullStack dev** in the making.
+- 🌱 **FullStack dev** in the making 💫.
