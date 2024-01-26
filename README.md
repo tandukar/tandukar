@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently learning **Django**
 - 🌱 **FullStack dev** in the making 💫
-- ✨️ I'm interested in **MERN** stack
+- 💮 I'm interested in **MERN** stack
