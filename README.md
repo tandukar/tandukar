@@ -9,10 +9,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tandukar&show_icons=true&locale=en&theme=juicyfresh" alt="tandukar" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tandukar&theme=juicyfresh" alt="tandukar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tandukar&theme=dark-minimalist" alt="tandukar" />
+
 </p>
